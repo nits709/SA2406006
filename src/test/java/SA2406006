@@ -1,0 +1,33 @@
+POST Request
+		request payload - 
+		1. HashMap
+		2. POJO CLASS  - Plain Old java Object (encapsulation - private data + public functions)
+		
+		
+		
+		
+		https://reqres.in/api/users/2
+		
+		//protocol://domain (baseURI)/ path parameter/ queryparameter
+		
+	Cookies Validation
+	1. Cookies are small file of information that web server generates and send to webbrowser
+	2.Cookies help inform  websites about the user enabling the websites to personalize the user
+	experience.
+	
+	Authentication and Authorization
+	API Authentication
+	is a process of verifying the identity of user or application to making the request
+	Api Authorization
+	is the process of verifying that the authenticated user or application has permission to access
+	 the requested resources.
+	 
+	 Types of Authentications
+	 1. Basic Authentication
+	 2. Digest Authentication
+	 3. Premeetive Authentication
+	 4. Bearer Token
+	 5. Auth 1.0 , 2.0
+		
+		
+		
